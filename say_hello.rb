@@ -1,5 +1,5 @@
-def say_hello(name = Ruby programmer)
+def say_hello(name = Ruby)
   
-  puts #{name}
+  puts "Hello #{name} programmer!"
   
   end
